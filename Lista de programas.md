@@ -1,0 +1,62 @@
+---
+title: Lista de programas para automação de download na pós-instalação do Sistema Operacional
+created: '2020-11-04T21:33:25.444Z'
+modified: '2020-11-04T21:54:31.900Z'
+---
+
+# Lista de programas para automação de download na pós-instalação do Sistema Operacional
+
+- Android Studio;
+- Arduino IDE;
+- Audacity;
+- Blanket;
+- Blender;
+- Gnome Boxes;
+- Cheese;
+- Mozzila Thunderbird;
+- Darktable;
+- Discord;
+- Dropbox;
+- Electrum Bitcoin;
+- FileZilla;
+- Foliate;
+- Franz;
+- GitKraken;
+- Google Chrome;
+- Google Earth;
+- Home Server;
+- Inkscape;
+- IntelliJ IDEA Community;
+- Jamovi;
+- Kdenlive;
+- MAster PDF Editor;
+- Mozilla Firefox;
+- Netbeans;
+- Netflix (atalho);
+- Notable;
+- OBS Studio;
+- Onlyoffice;
+- OpenBoard;
+- Organizer;
+- PyCharm-Comunity;
+- WebStorm;
+- GIMP;
+- Rapid Photo Downloader;
+- VLC;
+- Rhythmbox;
+- Scratch;
+- SimpleScreenRecorder;
+- Skype;
+- Slack;
+- Snes9x;
+- Spotify;
+- Steam;
+- Sublime Text 3;
+- TeamViewer;
+- Telegram;
+- Transmission;
+- Virtual Box;
+- Visual Studio Code;
+- VokoScreen;
+- WhatsApp Desktop;
+- WinFF;
