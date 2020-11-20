@@ -31,6 +31,7 @@ modified: '2020-11-04T21:54:31.900Z'
 - Kdenlive;
 - MAster PDF Editor;
 - Mozilla Firefox;
+- MySQL Workbench Community;
 - Netbeans;
 - Netflix (atalho);
 - Notable;

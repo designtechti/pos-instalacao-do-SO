@@ -81,6 +81,7 @@ sudo snap install homeserver &&
 sudo snap install notable --classic &&
 sudo snap install simplescreenrecorder &&
 sudo snap install vokoscreen-ng &&
+sudo snap install mysql-workbench-community &&
 
 ## Wine softwares ###
 ## wget -c https://uploads.treeunfe.me/downloads/instalar-freenfe.exe
