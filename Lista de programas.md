@@ -15,6 +15,7 @@ modified: '2020-11-04T21:54:31.900Z'
 - Cheese;
 - Mozzila Thunderbird;
 - Darktable;
+- Dbeaver Community;
 - Discord;
 - Dropbox;
 - Electrum Bitcoin;
@@ -61,3 +62,4 @@ modified: '2020-11-04T21:54:31.900Z'
 - VokoScreen;
 - WhatsApp Desktop;
 - WinFF;
+- Zoom;

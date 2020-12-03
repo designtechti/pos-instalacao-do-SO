@@ -57,6 +57,8 @@ sudo flatpak install flathub com.valvesoftware.Steam -y &&
 sudo flatpak install flathub com.sublimetext.three -y &&
 sudo flatpak install flathub org.telegram.desktop -y &&
 sudo flatpak install flathub com.transissionbt.Transmission -y &&
+sudo flatpak install flathub io.dbeaver.DbeaverCommunity -y &&
+sudo flatpak install flathub us.zoom.Zoom -y &&
 
 ## Softwares que precisam de download externo ##
 
